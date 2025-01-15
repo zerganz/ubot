@@ -10,6 +10,7 @@ load_dotenv()
 
 
 DEVS = [
+    1754029718, # Zer
     607067484, # Ayiin
     844432220, # Risman
     883761960, # Ari
@@ -19,6 +20,7 @@ DEVS = [
 
 
 GCAST_BLACKLIST = [
+    -1001624342603, # Teman Chat Telegram
     -1001718852988,  # AyiinChats <- New
     -1001675396283,  # AyiinChats
     -1001473548283,  # SharingUserbot
@@ -76,7 +78,7 @@ class Config:
     # For Blacklist Group Support
     BLACKLIST_CHAT = getenv("BLACKLIST_CHAT", None)
     if not BLACKLIST_CHAT:
-        BLACKLIST_CHAT = [-1001473548283, -1001675396283, -1001718852988]
+        BLACKLIST_CHAT = [-1001624342603, -1001473548283, -1001675396283, -1001718852988]
 
     # Userbot Session String
     STRING_SESSION = getenv("STRING_SESSION", None)
@@ -97,8 +99,8 @@ class Config:
     SUDO_HANDLER = getenv("SUDO_HANDLER", r"$")
 
     # Support
-    GROUP = getenv("GROUP", "AyiinChats")
-    CHANNEL = getenv("CHANNEL", "AyiinChannel")
+    GROUP = getenv("GROUP", "Teman Chat Telegramx")
+    CHANNEL = getenv("CHANNEL", "idiiihhh")
 
     # Heroku Credentials for updater.
     HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
@@ -112,7 +114,7 @@ class Config:
     GITHUB_ACCESS_TOKEN = getenv("GITHUB_ACCESS_TOKEN", None)
 
     # Custom (forked) repo URL for updater.
-    UPSTREAM_REPO_URL = getenv("UPSTREAM_REPO_URL", "https://github.com/AyiinXd/Ayiin-Userbot.git")
+    UPSTREAM_REPO_URL = getenv("UPSTREAM_REPO_URL", "https://github.com/zerganz/ubot.git")
 
     # Custom Name Sticker Pack
     S_PACK_NAME = getenv("S_PACK_NAME", None)
@@ -143,10 +145,10 @@ class Config:
     # untuk perintah teks costum .alive
     ALIVE_TEKS_CUSTOM = getenv(
         "ALIVE_TEKS_CUSTOM",
-        "Hey, Saya pengguna Ayiin-Userbot")
+        "Hey, Saya pengguna zerganz-ubot")
 
     # Default .alive name
-    ALIVE_NAME = getenv("ALIVE_NAME", "AyiinXd")
+    ALIVE_NAME = getenv("ALIVE_NAME", "zerganz")
 
     # Custom Emoji Alive
     ALIVE_EMOJI = getenv("ALIVE_EMOJI", "✧")
@@ -169,7 +171,7 @@ class Config:
 
     # Default .alive logo
     ALIVE_LOGO = (getenv("ALIVE_LOGO")
-                or "https://telegra.ph/file/940f21be8d8863b6c70ae.jpg")
+                or "https://telegra.ph//file/faf09fc796d490199b492.jpg")
 
     INLINE_PIC = (getenv("INLINE_PIC")
                 or "https://telegra.ph/file/9f8e73d387f25b7f27ce5.jpg")

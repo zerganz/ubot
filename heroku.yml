@@ -1,5 +1,5 @@
 build: 
   docker:
-      ayiin: Dockerfile
+      zerganz: Dockerfile
 run:
-   ayiin: bash start
+   zerganz: bash start

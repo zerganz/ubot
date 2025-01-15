@@ -1,21 +1,21 @@
 {
-  "name": "⋆ 𝘼𝙮𝙞𝙞𝙣-𝙐𝙨𝙚𝙧𝙗𝙤𝙩 ⋆",
-  "description": "[Ayiin-Userbot] Userbot Hanya Untuk Bersenang - Senang",
-  "logo": "https://telegra.ph/file/c6a0aef41355af5a018c6.jpg",
-  "keywords": ["telegram", "userbot", "Ayiin-Userbot", "modular", "python"],
-  "repository": "https://github.com/AyiinXd/Ayiin-Userbot",
+  "name": "⋆ zerganz-ubot ⋆",
+  "description": "[zerganz-ubot] Userbot Hanya Untuk Bersenang - Senang",
+  "logo": "https://telegra.ph//file/faf09fc796d490199b492.jpg",
+  "keywords": ["telegram", "userbot", "zerganz-ubot", "modular", "python"],
+  "repository": "https://github.com/zerganz/ubot",
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Dapatkan API KEY di Grup » https://t.me/AyiinChats » Lalu ketik /get api atau di web my.telegram.org Masukan yg APP ID Telegram",
+      "description": "Dapatkan API KEY di Grup » https://t.me/Teman_Chat_Telegramx » Lalu ketik /get api atau di web my.telegram.org Masukan yg APP ID Telegram",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan API Hash di Grup » https://t.me/AyiinChats » Lalu ketik /get api atau di web my.telegram.org",
+      "description": "Dapatkan API Hash di Grup » https://t.me/Teman_Chat_Telegramx » Lalu ketik /get api atau di web my.telegram.org",
       "required": true
     },
     "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » https://t.me/AyiinChats » Lalu ketik /get string",
+      "description": "Dapatkan String Session di Grup » https://t.me/Teman_Chat_Telegramx » Lalu ketik /get string",
       "required": true
     },
     "HEROKU_APP_NAME": {

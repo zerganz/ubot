@@ -1,18 +1,18 @@
-<h1 align="center"><img src="assets/flamepurple.gif" width="40" /> 𝘼𝙮𝙞𝙞𝙣 𝙐𝙨𝙚𝙧𝙗𝙤𝙩 <img src="assets/flamepurple.gif" width="40" /></h1>
+<h1 align="center"><img src="assets/flamepurple.gif" width="40" /> Zerganz ubot <img src="assets/flamepurple.gif" width="40" /></h1>
 
 <p align="center">
-<a href="https://github.com/AyiinXd/Ayiin-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/AyiinXd/Ayiin-Userbot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/zerganz/ubot/commits"> <img src="https://img.shields.io/github/last-commit/zerganz/ubot?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/AyiinXd/Ayiin-Userbot"> <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" width="120" /></a>
-<a href="https://GitHub.com/AyiinXd/Ayiin-Userbot/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-blue" width="120" /></a>
-<a href="https://app.codacy.com/gh/AyiinXd/Ayiin-Userbot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy" width="120" /></a>
+<a href="https://github.com/zerganz/ubot"> <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" width="120" /></a>
+<a href="https://GitHub.com/zerganz/ubot/graphs/commit-activity"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-blue" width="120" /></a>
+<a href="https://app.codacy.com/gh/zerganz/ubot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy" width="120" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/AyiinXd/Ayiin-Userbot/fork"> <img src="https://img.shields.io/github/forks/AyiinXd/Ayiin-Userbot?&logo=github" width="100" /></a>
-<a href="https://github.com/AyiinXd/Ayiin-Userbot/stargazers"> <img src="https://img.shields.io/github/stars/AyiinXd/Ayiin-Userbot?&logo=github" width="100" /></a>
+<a href="https://github.com/zerganz/ubot/fork"> <img src="https://img.shields.io/github/forks/zerganz/ubot?&logo=github" width="100" /></a>
+<a href="https://github.com/zerganz/ubot/stargazers"> <img src="https://img.shields.io/github/stars/zerganz/ubot?&logo=github" width="100" /></a>
 </p>
 
 
@@ -20,7 +20,7 @@
   <img src="assets/logo.jpg">
 </p>
 
-<h3 align="center">👩‍💻 Ayiin-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.</h3>
+<h3 align="center">👩‍💻 zerganz ubot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.</h3>
 
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
@@ -56,9 +56,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 ### Tutorial Deploy di VPS
 
 
- • `git clone https://github.com/AyiinXd/Ayiin-Userbot`
+ • `git clone https://github.com/zerganz/ubot`
 
- • `cd Ayiin-Userbot`
+ • `cd zerganz`
 
  • `pip3 install -U -r requirements.txt`
 
@@ -70,7 +70,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
   - ketik ctrl + S
   - ctrl + X
 
- • `screen -S Ayiin-Userbot`
+ • `screen -S zerganz`
 
  • `bash start`
 
@@ -94,7 +94,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ## Updates & Support
 
-Follow Channel [@AyiinChannel](https://t.me/AyiinProjects) untuk info Update bot dan Gabung Group [@AyiinChats](https://t.me/AyiinChats) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Ayiin-Userbot.
+Follow Channel [@idiiihhh](https://t.me/idiiihhh) untuk info Update bot dan Gabung Group [@Teman_Chat_Telegramx](https://t.me/Teman_Chat_Telegramx) untuk untuk diskusi, pelaporan bug, dan bantuan tentang zerganz-ubot.
 
 #### Special Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 -  [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
@@ -107,6 +107,7 @@ Follow Channel [@AyiinChannel](https://t.me/AyiinProjects) untuk info Update bot
 -  [Koala](https://github.com/ManusiaRakitan/Kampang-Bot) : Kampang-Bot
 -  [Alvin](https://github.com/Zora24/Lord-Userbot) : Lord-Userbot
 -  [AyiinXd](https://github.com/AyiinXd/Ayiin-Userbot) : Ayiin-Userbot
+-  [zerganz](https://github.com/zerganz/ubot) : Zerganz-ubot
 
 ## © Credits
 -  [Laky-64](https://github.com/Laky-64) for [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)

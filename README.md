@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="assets/zs.jpg">
 </p>
 
 <h3 align="center">👩‍💻 zerganz ubot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.</h3>
